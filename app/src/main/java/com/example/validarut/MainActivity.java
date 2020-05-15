@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                 resultado.setText("Rut incorrecto, el digito debe ser :" + 0);
             }
             else {
-                resultado.setText("Rut incorrecto, el digito debe ser : " + digito +" "+ suma +" "+ resto +" "+resta );
+                resultado.setText("Rut incorrecto, el digito debe ser : " + digito);
             }
         }
     }
