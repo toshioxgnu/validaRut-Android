@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">validaRut</string>
+    <string name="txtrut">IngresaRut</string>
+    <string name="txtboton"> Validar</string>
+    <string name="labeltxtrut"> Ingrese Rut</string>
+</resources>
